@@ -32,7 +32,7 @@
     <item id="id11" href="The_Road_Less_Traveled_split_010.html" media-type="application/xhtml+xml"/>
     <item id="page_css" href="page_styles.css" media-type="text/css"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
-    <item id="cover" href="cover1.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover" href="cover/jpeg" media-type="image/jpeg" properties="cover-image"/>
     <item id="id3" href="images/00001.jpg" media-type="image/jpeg"/>
     <item id="id4" href="images/00002.jpg" media-type="image/jpeg"/>
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
