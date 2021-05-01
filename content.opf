@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title id="id">The Road Less Traveled</dc:title>
+    <dc:creator id="id-1">M. Scott Peck</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:contributor id="id-2">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-01-24T16:25:27+00:00</dc:date>
+    <dc:identifier id="uuid_id">uuid:0df70291-cf71-4772-a569-a66616296bba</dc:identifier>
+    <dc:identifier>calibre:0df70291-cf71-4772-a569-a66616296bba</dc:identifier>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Road Less Traveled, The</meta>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Peck, M. Scott</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">bkp</meta>
+    <meta property="calibre:timestamp" scheme="dcterms:W3CDTF">2021-04-09T11:03:05Z</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2021-05-01T08:52:35Z</meta>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item id="id111" href="The_Road_Less_Traveled_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id110" href="The_Road_Less_Traveled_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="The_Road_Less_Traveled_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="The_Road_Less_Traveled_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="The_Road_Less_Traveled_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="The_Road_Less_Traveled_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="The_Road_Less_Traveled_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="The_Road_Less_Traveled_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="The_Road_Less_Traveled_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="The_Road_Less_Traveled_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="The_Road_Less_Traveled_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover1.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="id3" href="images/00001.jpg" media-type="image/jpeg"/>
+    <item id="id4" href="images/00002.jpg" media-type="image/jpeg"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="toc" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="titlepage"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  </package>
