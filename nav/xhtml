@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+  <head>
+    <title>Navigation</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  </head>
+  <body>
+    <section class="frontmatter TableOfContents" epub:type="frontmatter toc">
+      <header>
+        <h1>Contents</h1>
+      </header>
+      <nav epub:type="toc">
+        <ol>
+          <li><a href="cover/xhtml">Cover</a></li>
+          <li><a href="title/xhtml">Title</a></li>
+          <li><a href="dedication/xhtml">Dedication</a></li>
+          <li><a href="introduction/xhtml">Introduction</a></li>
+          <li>
+            <a href="discipline/xhtml">Section I: Discipline</a>
+            <ol>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_1">Problems and Pain</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_2">Delaying Gratification</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html">The Sins of the Father</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_3">Problem-Solving and Time</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_4">Responsibility</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_5">Neuroses and Character Disorders</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_6">Escape from Freedom</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_7">Dedication to Reality</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_8">Transference: The Outdated Map</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_9">Openness to Challenge</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_10">Withholding Truth</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_11">Balancing</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_12">The Healthiness of Depression</a></li>
+              <li><a href="The_Road_Less_Traveled_split_004.html#toc_13">Renunciation and Rebirth</a></li>
+            </ol>
+          </li>
+          <li>
+            <a href="The_Road_Less_Traveled_split_005.html#toc_1">Section II: Love</a>
+            <ol>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_1">Love Defined</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_2">Falling in “Love”</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_3">The Myth of Romantic Love</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_4">More About Ego Boundaries</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_5">Dependency</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_6">Cathexis Without Love</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_7">“Self Sacrifice”</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_8">Love Is Not A Feeling</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_9">The Work of Attention</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_10">The Risk of Loss</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_11">The Risk of Independence</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_12">The Risk Of Commitment</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_13">The Risk of Confrontation</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_14">Love Is Disciplined</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_15">Love Is Separateness</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_16">Love and Psychotherapy</a></li>
+              <li><a href="The_Road_Less_Traveled_split_006.html#toc_17">The Mystery of Love</a></li>
+            </ol>
+          </li>
+          <li>
+            <a href="The_Road_Less_Traveled_split_007.html">Section III: Growth and Religion</a>
+            <ol>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_1">World Views and Religion</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_2">The Religion of Science</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_3">The Case of Kathy</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_4">The Case of Marcia</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_5">The Case of Theodore</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_6">The Baby and the Bathwater</a></li>
+              <li><a href="The_Road_Less_Traveled_split_008.html#toc_7">Scientific Tunnel Vision</a></li>
+            </ol>
+          </li>
+          <li>
+            <a href="The_Road_Less_Traveled_split_009.html">Section IV: Grace</a>
+            <ol>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_1">The Miracle of Health</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_2">The Miracle of the Unconscious</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_3">The Miracle of Serendipity</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_4">The Definition of Grace</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_5">The Miracle of Evolution</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_6">The Alpha and Omega</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_7">Entropy and Original Sin</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_8">The Problem of Evil</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_9">The Evolution of Consciousness</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_10">The Nature of Power</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_11">Grace and Mental Illness; The Myth of Orestes</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_12">Resistance to Grace</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_13">The Welcoming of Grace</a></li>
+              <li><a href="The_Road_Less_Traveled_split_010.html#toc_14">Afterword</a></li>
+            </ol>
+          </li>
+        </ol>
+      </nav>
+    </section>
+    <nav epub:type="landmarks" hidden="">
+      <ol>
+        <li><a href="titlepage.xhtml" epub:type="cover">Cover</a></li>
+      </ol>
+    </nav>
+  </body>
+</html>
