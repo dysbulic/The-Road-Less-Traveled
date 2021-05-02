@@ -23,7 +23,7 @@
     <item id="section-1" href="Discipline/xhtml" media-type="application/xhtml+xml"/>
     <item id="section-2" href="Love/xhtml" media-type="application/xhtml+xml"/>
     <item id="section-3" href="Growth and Religion/xhtml" media-type="application/xhtml+xml"/>
-    <item id="section-4" href="Grace/html" media-type="application/xhtml+xml"/>
+    <item id="section-4" href="Grace/xhtml" media-type="application/xhtml+xml"/>
     <item id="css" href="css" media-type="text/css"/>
     <item id="cover" href="cover/jpeg" media-type="image/jpeg" properties="cover-image"/>
     <item id="id3" href="images/00001.jpg" media-type="image/jpeg"/>

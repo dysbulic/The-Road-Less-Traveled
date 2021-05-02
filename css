@@ -19,3 +19,7 @@ p {
   text-align: justify;
   text-indent: 1.5em;
 }
+
+hr {
+  width: 35%;
+}
