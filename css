@@ -20,6 +20,15 @@ p {
   text-indent: 1.5em;
 }
 
+blockquote p {
+  text-indent: 0;
+}
+
 hr {
   width: 35%;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
